@@ -1,0 +1,65 @@
+body{
+background-color: yellow;
+}
+.textbox{
+width: 298px;
+}
+#one{
+width: 434px;
+}
+#three{
+height: 400px;
+}
+#young-one{
+width: 450px;
+height: 300px;
+}
+#young-two{
+width:450px;
+}
+#div1{
+visibility: hidden;
+}
+
+
+#main_div{
+margin-top: 0px;
+z-index: 10px;
+}
+#first{
+color: red;
+font-weight: 600;
+}
+#third{
+color: red;
+font-weight: 600;
+}
+#second{
+color: red;
+font-weight: 600;
+}
+#submit{
+height: 40px;
+width:100px ;
+font-size: 19px;
+background-color: aqua;
+color: orangered;
+font-weight: 700;
+border-color:blueviolet ;
+border-width: 3px;
+}
+#reset{
+    height: 40px;
+    width:100px ;
+    font-size: 19px;
+    background-color: aqua;
+    color: orangered;
+    font-weight: 700;
+    border-color:blueviolet ;
+    border-width: 3px;
+    border-radius: 78px;
+    margin-left: 24px;
+    }
+#weight{
+margin-bottom: 24px;
+}
